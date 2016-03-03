@@ -18,9 +18,12 @@ Afterwards:
 
 5. Change the image to be the most recently clicked food item.
 
+
 6. When the gray div is moused over, it's removed from the DOM.
 
+
 7. When the orange div is moused over, its width doubles. When the mouse moves out of the div, it returns to its original size.
+
 
 8. When the reset button is clicked - remove the `selected` class from each `<li>` and change the image to `panic.jpeg`.
 
