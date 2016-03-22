@@ -16,6 +16,7 @@ Afterwards:
 
 4. Add the class of `selected` to an `<li>` when it is clicked. Remove it from any other `li`s as well.
 
+```
 5. Change the image to be the most recently clicked food item.
 
 
